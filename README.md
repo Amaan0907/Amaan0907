@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to My Digital Playground
+# 👋 Hii! Myself Amaan, Welcome to My Digital Playground
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
@@ -35,7 +35,38 @@
 <div align="center">
 
 ## 🚀 Featured Projects
-/
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">TO-DO APP</h3>
+<div align="center">  
+<br>
+<p>
+<a href="https://github.com/Amaan0907/To-Do_WebApp.git" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+</p>
+<p><strong>HTML,CSS,Javascript</strong> The To-Do Application is a functional task management tool designed to help users organize their daily activities efficiently.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Probability-Guided-Number-Guessing-Simulator</h3>
+<div align="center">  
+<br>
+<p>
+<a href="https://github.com/Amaan0907/Probability-Guided-Number-Guessing-Simulator.git" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+</p>
+<p><strong>Python and its libraries:- argparse, logging,csv</strong> A production-grade CLI application for playing number guessing games with intelligent probability-based hints and comprehensive game tracking.</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🎮 When I'm Not Coding
 
@@ -55,9 +86,6 @@ const life = {
 <a href="https://www.linkedin.com/in/mohd-amaan-3ba27a362/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
 <a href="mailto:mohdamaan00907@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -68,6 +96,6 @@ const life = {
 
 **⭐ From [Amaan0907](https://github.com/Amaan0907)**
 
-![Visitor Count](https://profile-counter.glitch.me/Amaan0907/count.svg)
 
 </div>
+
