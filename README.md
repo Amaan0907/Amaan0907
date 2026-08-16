@@ -63,7 +63,7 @@
 ### 🚀 Featured Projects
 
 - **[Voya](https://github.com/Amaan0907/Voya)** — a JavaScript-based project. *(JavaScript)*
-- **[Portfolio](https://github.com/Amaan0907/Portfolio)** — personal portfolio website showcasing projects and skills. *(JavaScript)*
+- **[Portfolio]((https://github.com/Amaan0907/MyPortfolio))** — personal portfolio website showcasing projects and skills. *(JavaScript)*
 - **[Backend Project](https://github.com/Amaan0907/Backend_Project)** — backend service and API architecture practice. *(JavaScript)*
 - **[GenAI & Full-Stack Project](https://github.com/Amaan0907/GenAI_and_Full_Stack_Project)** — a full-stack build exploring Generative AI integrated into a modern web app. *(JavaScript)*
 
