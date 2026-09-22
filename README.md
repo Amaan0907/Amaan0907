@@ -88,6 +88,16 @@
     alt="Top Languages"
   />
 </p>
+---
+
+### 🔥 GitHub Streak
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Amaan0907&theme=transparent&background=00000000&stroke=f0f6fc&ring=58a6ff&fire=58a6ff&currStreakLabel=f0f6fc&sideLabels=f0f6fc&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&hide_border=true"
+    alt="Amaan's GitHub streak"
+  />
+</p>
 
 ---
 
